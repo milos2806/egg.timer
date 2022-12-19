@@ -3,7 +3,7 @@
 This repository contains automated UI tests written in Java with Selenium for the [egg.timer](https://e.ggtimer.com/) and API test written in Postman for the [reqres](https://reqres.in/). Also here you can find test plan, bug report, theory questionnaire with answers.
 
 ## Selenium tests
-1. Make sure you have [JDK 1.8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html), [Selenium](https://www.selenium.dev/downloads/) and [Maven](https://maven.apache.org/) installed on your system, if not follow the vendor instructions for installing them on your operating system. Add Maven dependecy in your IDE.
+1. Make sure you have [JDK 1.8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html), [Selenium 3.141](https://www.selenium.dev/downloads/) and [Maven 3.8.1](https://maven.apache.org/) installed on your system, if not follow the vendor instructions for installing them on your operating system. Add Maven dependecy in your IDE.
 2. In order to run tests in CHROME browser make sure you have [chromedriver](https://chromedriver.chromium.org/).
 
 ### Running Tests
